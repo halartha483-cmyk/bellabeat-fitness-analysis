@@ -1,1 +1,1 @@
-sql/02_exploratory_analysis.sql
+-- Exploratory Data Analysis Queries
