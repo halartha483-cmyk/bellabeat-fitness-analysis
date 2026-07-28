@@ -56,7 +56,7 @@ The analysis focused on:
 
 ## Dashboard
 
-![Bellabeat Dashboard](images/Bellabeat Dashboard.png)
+![Bellabeat Dashboard](images/dashboard.png)
 
 ---
 
