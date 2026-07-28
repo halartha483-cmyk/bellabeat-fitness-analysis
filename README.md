@@ -58,7 +58,7 @@ The analysis focused on:
 
 ### Bellabeat Fitness Dashboard
 
-![Dashboard](images/dashboard.png)
+![Bellabeat Dashboard](images/dashboard.png)
 
 ---
 
