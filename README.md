@@ -54,11 +54,9 @@ The analysis focused on:
 
 ---
 
-## 📈 Dashboard
+## Dashboard
 
-### Bellabeat Fitness Dashboard
-
-[Bellabeat Fitness Tracker Analysis.twbx](images/dashboard.png)
+![Bellabeat Dashboard](images/dashboard.png)
 
 ---
 
