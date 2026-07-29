@@ -116,6 +116,9 @@ The analysis focused on:
 ### Steps vs Calories
 
 ![Scatter](images/steps_vs_calories.png)
+
+---
+
 ## 📌 Key Findings
 
 ### 👣 Activity
@@ -160,6 +163,17 @@ Launch weekend challenges and motivational notifications to improve activity lev
 ### 3. Promote Holistic Wellness
 
 Promote activity tracking and sleep monitoring together, recognizing that higher activity levels do not automatically result in longer sleep duration.
+
+---
+
+## 📈 Business Impact
+
+This analysis helps Bellabeat better understand user behavior and supports data-driven marketing decisions by identifying:
+
+- Activity trends
+- Sleep habits
+- Weekly engagement patterns
+- Opportunities to improve user engagement
 
 ---
 
