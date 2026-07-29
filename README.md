@@ -13,6 +13,20 @@ The objective is to generate actionable business recommendations that can help B
 
 ---
 
+## 📑 Table of Contents
+
+- Project Overview
+- Business Task
+- Dataset
+- Tools Used
+- Data Cleaning
+- Exploratory Data Analysis
+- Dashboard
+- Key Findings
+- Business Recommendations
+- Repository Structure
+- Skills Demonstrated
+
 ## 🎯 Business Task
 
 Analyze smart device usage data to identify trends in physical activity and sleep behavior and provide recommendations that support Bellabeat's marketing strategy.
