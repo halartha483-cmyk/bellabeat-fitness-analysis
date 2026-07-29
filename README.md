@@ -27,6 +27,8 @@ The objective is to generate actionable business recommendations that can help B
 - Repository Structure
 - Skills Demonstrated
 
+---
+
 ## 🎯 Business Task
 
 Analyze smart device usage data to identify trends in physical activity and sleep behavior and provide recommendations that support Bellabeat's marketing strategy.
