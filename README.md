@@ -95,6 +95,27 @@ The analysis focused on:
 
 ---
 
+### Activity Distribution
+
+![Activity](images/activity_distribution.png)
+
+---
+
+### Steps by Day
+
+![Steps](images/steps_by_day.png)
+
+---
+
+### Activity vs Sleep
+
+![Sleep](images/sleep_vs_activity.png)
+
+---
+
+### Steps vs Calories
+
+![Scatter](images/steps_vs_calories.png)
 ## 📌 Key Findings
 
 ### 👣 Activity
