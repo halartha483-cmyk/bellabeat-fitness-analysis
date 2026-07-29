@@ -37,10 +37,13 @@ Analyze smart device usage data to identify trends in physical activity and slee
 
 ## 🛠 Tools Used
 
-- Google BigQuery
-- SQL
-- Tableau
-- GitHub
+| Tool            | Purpose                                |
+| --------------- | -------------------------------------- |
+| Google BigQuery | Data storage and SQL analysis          |
+| SQL             | Data cleaning and exploratory analysis |
+| Tableau         | Dashboard and visualization            |
+| GitHub          | Version control and portfolio hosting  |
+
 
 ---
 
