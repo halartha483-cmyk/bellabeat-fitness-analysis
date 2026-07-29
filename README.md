@@ -1,5 +1,10 @@
 # 🩺 Bellabeat Fitness Tracker Analysis
 
+![SQL](https://img.shields.io/badge/SQL-BigQuery-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-BigQuery-4285F4)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## 📌 Project Overview
 
 This project analyzes Bellabeat smart device fitness data to identify user activity patterns, sleep behavior, and wellness trends. The analysis was performed using Google BigQuery for data cleaning and SQL analysis, while Tableau was used to build an interactive dashboard.
