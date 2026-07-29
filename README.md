@@ -47,6 +47,17 @@ Analyze smart device usage data to identify trends in physical activity and slee
 
 ---
 
+## 📌 Project Workflow
+
+1. Import datasets into BigQuery
+2. Clean and validate data
+3. Perform exploratory data analysis
+4. Build Tableau dashboard
+5. Generate business recommendations
+6. Publish findings on GitHub
+
+---
+
 ## 📂 Dataset
 
 Bellabeat FitBit Fitness Tracker Dataset (Kaggle)
