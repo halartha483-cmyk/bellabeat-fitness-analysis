@@ -202,6 +202,15 @@ README.md
 
 ---
 
+## 🔮 Future Improvements
+
+- Analyze additional Fitbit datasets (heart rate, weight, hourly activity).
+- Build interactive Tableau dashboards with filters.
+- Perform statistical correlation analysis between activity and sleep.
+- Expand recommendations using larger datasets.
+
+---
+
 ## 👤 Author
 
 GitHub:
