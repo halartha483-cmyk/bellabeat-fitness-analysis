@@ -190,14 +190,15 @@ README.md
 
 ## 🚀 Skills Demonstrated
 
-- SQL
-- BigQuery
+- SQL (BigQuery)
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
+- Data Validation
 - Data Visualization
-- Dashboard Design
+- Tableau Dashboard Development
 - Business Analysis
 - Data Storytelling
+- GitHub Documentation
 
 ---
 
